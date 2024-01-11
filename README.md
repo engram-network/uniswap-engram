@@ -26,6 +26,23 @@ Note: [`setContentHash`](https://docs.ens.domains/contract-api-reference/publicr
 
 These contract function calls should ultimately be encoded into a governance proposal, about which more details are available [here](https://docs.uniswap.org/protocol/concepts/governance/overview).
 
+## Contract Uniswap on Engram Testnet
+
+```bash
+    "v3CoreFactoryAddress": "0x9c63aC61d11081FaAF813158887611f36b900cD3",
+    "multicall2Address": "0xE13898De54606eeCA2ea8086be7a4Fcbf795D83b",
+    "proxyAdminAddress": "0x749A0290057364DF61B9b4ED1db490AD12ff61BB",
+    "tickLensAddress": "0x319a76cDCA45c9C8dfBfE74E72DEe0399C34781b",
+    "nftDescriptorLibraryAddressV1_3_0": "0xD4C38050FD0c3BAE0668D4a827a6D0c11C48107E",
+    "nonfungibleTokenPositionDescriptorAddressV1_3_0": "0xf2613792830fbf08310f350e084cFda581A925e9",
+    "descriptorProxyAddress": "0x3F4eF8e785641D60758CE33Ff8A28e0363605680",
+    "nonfungibleTokenPositionManagerAddress": "0x0442317F2C76c355E693E22Cd531036A9bb7FBef",
+    "v3MigratorAddress": "0x159beF5786661b447A5a9cEa76C337CF3eac2aA5",
+    "v3StakerAddress": "0xB79157734E4d7AaD4E42d8aE3f427F62F88bD61A",
+    "quoterV2Address": "0x8aa7a25619c7d3656bBa74033D6f32d87a9c57A6",
+    "swapRouter02": "0xEA1e27DeFcb2B2256484321449a597432c340800"
+```
+
 ## Usage
 
 This package vends a CLI for executing a deployment script that results in a full deployment of Uniswap Protocol v3.
