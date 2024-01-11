@@ -1,0 +1,102 @@
+[
+    [
+        {
+            "message": "Contract UniswapV3Factory deployed",
+            "address": "0x9c63aC61d11081FaAF813158887611f36b900cD3",
+            "hash": "0xe16c0751c05745d4c6ea738cb6769453b15871dcae00afd6a9e134e5cdd1ef6f"
+        }
+    ],
+    [
+        {
+            "message": "UniswapV3Factory added a new fee tier 1 bps with tick spacing 1",
+            "hash": "0xac1bc355fb174c73e179bc007ba5daa1eacccf4edb46b96f705ac6ef90523266"
+        }
+    ],
+    [
+        {
+            "message": "Contract UniswapInterfaceMulticall deployed",
+            "address": "0xE13898De54606eeCA2ea8086be7a4Fcbf795D83b",
+            "hash": "0x4608f516373743b261fd20e12f969ca8e4e21da0f7ab98e168add26ed5fe2f79"
+        }
+    ],
+    [
+        {
+            "message": "Contract ProxyAdmin deployed",
+            "address": "0x749A0290057364DF61B9b4ED1db490AD12ff61BB",
+            "hash": "0x2fe05e2f6ff61eb68614d7a9be42284657c49ed6911ae42f34419ae243465078"
+        }
+    ],
+    [
+        {
+            "message": "Contract TickLens deployed",
+            "address": "0x319a76cDCA45c9C8dfBfE74E72DEe0399C34781b",
+            "hash": "0xe73c90160ccb5c88e949aacd289195f8fc6c8f35ea41d9acc04062666b1b9a23"
+        }
+    ],
+    [
+        {
+            "message": "Library NFTDescriptor deployed",
+            "address": "0xD4C38050FD0c3BAE0668D4a827a6D0c11C48107E",
+            "hash": "0xbc473e2454e1c065a42ee6a673ce7b99a6a7c788a82488ee131e3b00b995f7d5"
+        }
+    ],
+    [
+        {
+            "message": "Contract NonfungibleTokenPositionDescriptor deployed",
+            "address": "0xf2613792830fbf08310f350e084cFda581A925e9",
+            "hash": "0x31adb7ff2032b0e6d482554cb1e92d523cf75d00178a14d1ff3de1503fa02be6"
+        }
+    ],
+    [
+        {
+            "message": "Contract TransparentUpgradeableProxy deployed",
+            "address": "0x3F4eF8e785641D60758CE33Ff8A28e0363605680",
+            "hash": "0x3fd3930e454bd294505619ca7dbafa52fa0f4e11c343e793b222177a6530234e"
+        }
+    ],
+    [
+        {
+            "message": "Contract NonfungiblePositionManager deployed",
+            "address": "0x0442317F2C76c355E693E22Cd531036A9bb7FBef",
+            "hash": "0x0ed8cf40f26def82805e41a08a0e85a08ab70e472bb930f7d276e633618607f6"
+        }
+    ],
+    [
+        {
+            "message": "Contract V3Migrator deployed",
+            "address": "0x159beF5786661b447A5a9cEa76C337CF3eac2aA5",
+            "hash": "0xe16962804180dded710a98fc476556e147fc21b1d22c3ddc524b0ae40c07d194"
+        }
+    ],
+    [
+        {
+            "message": "UniswapV3Factory owned by 0x00000023DfCdE07675ac95bd09f5DBC2814fEb90 already"
+        }
+    ],
+    [
+        {
+            "message": "Contract UniswapV3Staker deployed",
+            "address": "0xB79157734E4d7AaD4E42d8aE3f427F62F88bD61A",
+            "hash": "0x4547607fbcd2020625227e75196d8cda51fdbc0174e000e93060ff3ac7047f84"
+        }
+    ],
+    [
+        {
+            "message": "Contract QuoterV2 deployed",
+            "address": "0x8aa7a25619c7d3656bBa74033D6f32d87a9c57A6",
+            "hash": "0xa74bc8135016cf62492d8b63a8a4de09c3c55962280b8de7c7a2954b5a39e7a9"
+        }
+    ],
+    [
+        {
+            "message": "Contract SwapRouter02 deployed",
+            "address": "0xEA1e27DeFcb2B2256484321449a597432c340800",
+            "hash": "0x26a9c6874b62806d60813817a2d25d28c1d2716911ff01ba23727fcef6b668eb"
+        }
+    ],
+    [
+        {
+            "message": "ProxyAdmin owned by 0x00000023DfCdE07675ac95bd09f5DBC2814fEb90 already"
+        }
+    ]
+]
